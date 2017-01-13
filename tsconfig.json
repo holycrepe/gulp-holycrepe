@@ -1,0 +1,18 @@
+{
+    "compileOnSave": false,
+    "compilerOptions": {
+		"noImplicitAny": true,
+        "sourceMap": false,
+		"rootDir": "src",
+		"outDir": "./lib",
+		"target": "ES6",
+		"pretty": true,
+		"preserveConstEnums": true,
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata": true
+    },
+	  "filesGlob": [
+		"./src/**/*.ts",
+		"!node_modules/**"
+	  ]
+}
