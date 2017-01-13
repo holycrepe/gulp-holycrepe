@@ -1,114 +1,105 @@
 {
-  "_args": [
-    [
-      "gulp-holycrepe",
-      "M:\\"
-    ]
-  ],
-  "_from": "gulp-holycrepe@*",
-  "_id": "gulp-holycrepe@1.1.1",
-  "_inCache": true,
-  "_installable": true,
-  "_location": "/gulp-holycrepe",
-  "_npmUser": {
-    "email": "marceljackwerth@gmail.com",
-    "name": "sirlantis"
-  },
-  "_npmVersion": "1.4.4",
-  "_phantomChildren": {
-    "lru-cache": "2.7.3",
-    "sigmund": "1.0.1"
-  },
-  "_requested": {
-    "name": "gulp-holycrepe",
-    "raw": "gulp-holycrepe",
-    "rawSpec": "",
-    "scope": null,
-    "spec": "*",
-    "type": "range"
-  },
-  "_requiredBy": [
-    "#USER"
-  ],
-  "_resolved": "https://registry.npmjs.org/gulp-holycrepe/-/gulp-holycrepe-1.1.1.tgz",
-  "_shasum": "0b8ef0833235bed65f1efbc79c6aed97b1db41e9",
-  "_shrinkwrap": null,
-  "_spec": "gulp-holycrepe",
-  "_where": "M:\\",
-  "author": {
-    "email": "marceljackwerth@gmail.com",
-    "name": "Marcel Jackwerth",
-    "url": "http://twitter.com/sirlantis"
-  },
-  "bugs": {
-    "url": "https://github.com/sirlantis/gulp-holycrepe/issues"
-  },
-  "dependencies": {
-    "ansi-256-colors": "^1.1.0",
-    "ast-types": "latest",
-    "jquery": "latest",
-    "jquery-extend": "latest",
-    "minimatch": "latest"
-  },
-  "description": "The gulp plugin `gulp-holycrepe` allows you to reorder a stream of files using the same syntax as of `gulp.src`.",
-  "devDependencies": {
-    "babel-preset-es2015": "^6.18.0",
-    "babel-preset-env": "^1.1.8",
-    "babel-preset-latest": "^6.16.0",
-    "babel-runtime": "^6.18.1",
-    "gulp": "latest",
-    "gulp-babel": "latest",
-    "gulp-batch": "latest",
-    "gulp-concat": "^2.6.0",
-    "gulp-order": "latest",
-    "gulp-order-ext": "holycrepe/gulp-order-ext",
-    "gulp-print": "latest",
-    "gulp-rename": "^1.2.2",
-    "gulp-sourcemaps": "^1.6.0",
-    "gulp-typescript": "latest",
-    "typescript": "^2.1.5",
-    "gulp-util": "latest",
-    "gulp-watch": "latest",
-    "handlebars": "^4.0.5",
-    "mustache": "^2.2.1",
-    "through2": "^2.0.1",
-    "lodash": "latest"
-  },
-  "directories": {},
-  "dist": {
-    "shasum": "0b8ef0833235bed65f1efbc79c6aed97b1db41e9",
-    "tarball": "http://registry.npmjs.org/gulp-holycrepe/-/gulp-holycrepe-1.1.1.tgz"
-  },
-  "engines": {
-    "node": "*"
-  },
-  "homepage": "https://github.com/holycrepe/gulp-holycrepe",
-  "keywords": [
-    "concat",
-    "gulp",
-    "gulpplugin",
-    "minimatch",
-    "order",
-    "pipe"
-  ],
-  "license": {
-    "type": "MIT",
-    "url": "http://github.com/sirlantis/gulp-holycrepe/raw/master/LICENSE"
-  },
-  "main": "lib/index.js",
-  "maintainers": [
-    {
-      "name": "sirlantis",
-      "email": "marceljackwerth@gmail.com"
-    }
-  ],
-  "name": "gulp-holycrepe",
-  "optionalDependencies": {},
-  "readme": "ERROR: No README data found!",
-  "repository": {
-    "type": "git",
-    "url": "git://github.com/holycrepe/gulp-holycrepe.git"
-  },
-  "scripts": {},
-  "version": "1.1.1"
+   "_args" : [
+      [
+         "gulp-holycrepe",
+         "C:\\Users\\Avi\\Source\\Repos\\Javascript\\Holycrepe\\gulp-holycrepe"
+      ]
+   ],
+   "_from" : "gulp-holycrepe@*",
+   "_id" : "gulp-holycrepe@1.1.1",
+   "_inCache" : true,
+   "_installable" : true,
+   "_location" : "/gulp-holycrepe",
+   "_npmUser" : {
+      "email" : "github@puchalapalli.com",
+      "name" : "holycrepe"
+   },
+   "_npmVersion" : "1.4.4",
+   "_phantomChildren" : {
+      "lru-cache" : "2.7.3",
+      "sigmund" : "1.0.1"
+   },
+   "_requested" : {
+      "name" : "gulp-holycrepe",
+      "raw" : "gulp-holycrepe",
+      "rawSpec" : "",
+      "scope" : null,
+      "spec" : "*",
+      "type" : "range"
+   },
+   "_requiredBy" : [ "#USER" ],
+   "_resolved" : "https://registry.npmjs.org/gulp-holycrepe/-/gulp-holycrepe-1.1.1.tgz",
+   "_spec" : "gulp-holycrepe",
+   "_where" : "C:\\Users\\Avi\\Source\\Repos\\Javascript\\Holycrepe\\gulp-holycrepe",
+   "author" : {
+      "email" : "github@puchalapalli.com",
+      "name" : "Avinash Puchalapalli",
+      "url" : "http://github.com/holycrepe"
+   },
+   "bugs" : {
+      "url" : "https://github.com/holycrepe/gulp-holycrepe/issues"
+   },
+   "dependencies" : {
+      "ansi-256-colors" : "^1.1.0",
+      "ast-types" : "latest",
+      "chalk" : "latest",
+      "jquery" : "latest",
+      "jquery-extend" : "latest",
+      "minimatch" : "latest"
+   },
+   "description" : "The gulp plugin `gulp-holycrepe` allows you to reorder a stream of files using the same syntax as of `gulp.src`.",
+   "devDependencies" : {
+      "@types/node" : "^7.0.0",
+      "babel-preset-env" : "^1.1.8",
+      "babel-preset-es2015" : "^6.18.0",
+      "babel-preset-latest" : "^6.16.0",
+      "babel-runtime" : "^6.18.1",
+      "gulp" : "latest",
+      "gulp-babel" : "latest",
+      "gulp-batch" : "latest",
+      "gulp-concat" : "^2.6.0",
+      "gulp-order" : "latest",
+      "gulp-order-ext" : "holycrepe/gulp-order-ext",
+      "gulp-print" : "latest",
+      "gulp-rename" : "^1.2.2",
+      "gulp-sourcemaps" : "^1.6.0",
+      "gulp-typescript" : "latest",
+      "gulp-util" : "latest",
+      "gulp-watch" : "latest",
+      "handlebars" : "^4.0.5",
+      "lodash" : "latest",
+      "mustache" : "^2.2.1",
+      "through2" : "^2.0.1",
+      "typescript" : "^2.1.5"
+   },
+   "directories" : {},
+   "dist" : {
+      "shasum" : "0b8ef0833235bed65f1efbc79c6aed97b1db41e9",
+      "tarball" : "http://registry.npmjs.org/gulp-holycrepe/-/gulp-holycrepe-1.1.1.tgz"
+   },
+   "engines" : {
+      "node" : "*"
+   },
+   "homepage" : "https://github.com/holycrepe/gulp-holycrepe",
+   "keywords" : [ "concat", "gulp", "gulpplugin", "minimatch", "order", "pipe" ],
+   "license" : {
+      "type" : "MIT",
+      "url" : "http://github.com/holycrepe/gulp-holycrepe/raw/master/LICENSE"
+   },
+   "main" : "lib/index.js",
+   "maintainers" : [
+      {
+         "name" : "holycrepe",
+         "email" : "marceljackwerth@gmail.com"
+      }
+   ],
+   "name" : "gulp-holycrepe",
+   "optionalDependencies" : {},
+   "readme" : "ERROR: No README data found!",
+   "repository" : {
+      "type" : "git",
+      "url" : "git://github.com/holycrepe/gulp-holycrepe.git"
+   },
+   "scripts" : {},
+   "version" : "1.1.1"
 }
