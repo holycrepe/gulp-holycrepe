@@ -1,6 +1,6 @@
 {
   "name": "gulp-holycrepe",
-  "version": "1.1.1"
+  "version": "1.1.1",
   "description": "The gulp plugin `gulp-holycrepe` allows you to reorder a stream of files using the same syntax as of `gulp.src`.",
   "main": "./lib/index.js",
   "typings": "./lib/index",
@@ -48,7 +48,7 @@
   "maintainers": [
     {
       "email": "github@puchalapalli.com",
-      "name": "Avinash Puchalapalli",
+      "name": "Avinash Puchalapalli"
     }
   ],
   "scripts": {
@@ -72,5 +72,5 @@
     "order",
     "pipe"
   ],
-  "license": "MIT",
+  "license": "MIT"
 }
