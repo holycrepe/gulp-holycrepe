@@ -9,14 +9,14 @@
   },
   "dependencies": {
     "ast-types": "latest",
+    "babel-preset-env": "^1.1.8",
+    "babel-preset-es2015": "^6.18.0",
+    "babel-preset-latest": "^6.16.0",
     "chalk": "latest",
     "gulp-order-ext": "git+https://holycrepe.visualstudio.com/DefaultCollection/JavaScript/_git/gulp-order-ext",
     "jquery": "^3.1.1",
     "jquery-extend": "latest",
     "minimatch": "latest",
-    "babel-preset-env": "^1.1.8",
-    "babel-preset-es2015": "^6.18.0",
-    "babel-preset-latest": "^6.16.0",
     "typings": "^2.1.0"
   },
   "devDependencies": {
