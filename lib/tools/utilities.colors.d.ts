@@ -1,7 +1,4 @@
-///<reference path="../../typings/index.d.ts"/>
-
-import {ChalkChain} from "chalk";
-import {ChalkStyle} from "chalk";
+import {ChalkChain, ChalkStyle} from "chalk";
 // export type ChalkStyleDefinitions1 = {[style: string]: ChalkChain};
 // export interface ChalkStyleMappingExtended1 {
 //     get(style:string):ChalkChain;
